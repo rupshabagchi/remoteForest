@@ -5,6 +5,10 @@ Your emotional connection to forests through your mobile phones. Built with Reac
 Ctrl+Shift+M and select a smaller screen size. 
 ```
 
+## Screenshots
+
+![alt text](https://github.com/rupshabagchi/remoteForest/blob/master/lorien_collage.jpg "Mobile page screenshots")
+
 ## Deployment
 
 ### Locally:
@@ -23,3 +27,9 @@ heroku create --buildpack https://github.com/mars/create-react-app-buildpack.git
 git push heroku master
 heroku open
 ```
+
+### Team:
+ * Sebastian (biz)
+ * Jait (backend)
+ * Oleg (design)
+ * Rupsha (frontend)
