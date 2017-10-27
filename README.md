@@ -29,7 +29,7 @@ heroku open
 ```
 
 ### Team:
- * Sebastian (biz)
- * Jait (backend)
- * Oleg (design)
- * Rupsha (frontend)
+ * Sebastian 
+ * Jait 
+ * Oleg 
+ * Rupsha 
